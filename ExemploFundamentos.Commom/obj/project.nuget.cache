@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvet8no7L82FTPfzxaxHz75r9tLRp8stN8juPtTUUO8847rSfdEwyXMbBZIyfkOBEQr7rC+ldgjTjaTWsZJsAg==",
+  "success": true,
+  "projectFilePath": "/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/ExemploFundamentos.Commom.csproj",
+  "expectedPackageFiles": [
+    "/home/maduh/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/maduh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

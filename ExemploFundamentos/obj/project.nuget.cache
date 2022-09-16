@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVEvbxpb3KDQxxSKa2qIAD+xLP+wTjD1m/Qd2rcow7qOmRQzVygX3D3tcHO45ssyOi20QwJlON4nlxGB3EuVpA==",
+  "success": true,
+  "projectFilePath": "/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos/fundamentosDotNet.csproj",
+  "expectedPackageFiles": [
+    "/home/maduh/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/maduh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/maduh/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

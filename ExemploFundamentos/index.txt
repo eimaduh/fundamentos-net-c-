@@ -1,0 +1,2 @@
+dotnet new console 
+**vai iniciar o projeto c#** 

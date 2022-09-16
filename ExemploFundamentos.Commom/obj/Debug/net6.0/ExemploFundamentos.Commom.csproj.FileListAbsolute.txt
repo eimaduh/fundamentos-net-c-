@@ -1,0 +1,12 @@
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/bin/Debug/net6.0/ExemploFundamentos.Commom.deps.json
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/bin/Debug/net6.0/ExemploFundamentos.Commom.dll
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/bin/Debug/net6.0/ExemploFundamentos.Commom.pdb
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.csproj.AssemblyReference.cache
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.GeneratedMSBuildEditorConfig.editorconfig
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.AssemblyInfoInputs.cache
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.AssemblyInfo.cs
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.csproj.CoreCompileInputs.cache
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.dll
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/refint/ExemploFundamentos.Commom.dll
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ExemploFundamentos.Commom.pdb
+/home/maduh/Área de Trabalho/fundementosDoNet/ExemploFundamentos.Commom/obj/Debug/net6.0/ref/ExemploFundamentos.Commom.dll

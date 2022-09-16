@@ -7,9 +7,9 @@ namespace ExemploFundamentos.Commom.models
 {
     public class Pessoa
     {
-        public string? Nome { get; set; }
+        public string Nome { get; set; }
         public int Idade { get; set; }
-        public string? Profissao { get; set; }
+        public string Profissao { get; set; }
 
         public void Apresentar()
         {
